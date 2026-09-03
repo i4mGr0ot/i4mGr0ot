@@ -34,7 +34,7 @@ HANDLE = "ashray@github"
 BIRTHDAY = "2005-11-16"
 
 ART_FILE = "portrait.txt"
-ART_PNG = "portrait-light.png"   # one image, used in every colour scheme
+ART_PNG = "portrait-light.png"  # one image, used in every colour scheme
 ART_DISPLAY_WIDTH = 360     # px in the README; raise it and lower VALUE_WRAP
 
 LAYOUT = "image"            # "image" | "side" | "stacked"
@@ -169,6 +169,13 @@ def info_lines(ctx, linkify=False):
 def _pre_block(lines):
     body = []
     for text, href, head_len, bold in lines:
+        if not text.strip():
+            # A truly blank line would close the surrounding HTML block and
+            # hand the rest of the table back to the Markdown parser, which
+            # turns "- Label: ..." into bullet points. &nbsp; keeps the line
+            # visually empty while stopping that.
+            body.append("&nbsp;")
+            continue
         parts, i = [], 0
         if bold:
             bs, be = bold

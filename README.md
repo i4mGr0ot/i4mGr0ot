@@ -16,17 +16,17 @@
 - <b>Shell:</b> ............. Project ATLAS - ILR
 - <b>IDE:</b> ............... VSCode, MATLAB, Vim, Arduino,
                        Raspberry Pi
-
+&nbsp;
 - <b>Lang.Programming:</b> .. Python, C++, C, MATLAB
 - <b>Lang.Markup:</b> ....... LaTeX, YAML, JSON, Bash
 - <b>Lang.Real:</b> ......... English, Hindi, German
-
+&nbsp;
 - <b>Stack.Simulation:</b> .. OpenFOAM, SU2, XFOIL, UNICADO,
                        ANSYS, FlexCompute, COMSOL, SimScale
 - <b>Stack.Robotics:</b> .... ROS2, PX4, STM32, Embedded C
 - <b>Stack.Learning:</b> .... PyTorch, scikit-learn, Optuna,
                        TensorFlow
-
+&nbsp;
 - <b>Focus.Thesis:</b> ...... Credibility estimation for 2045 EIS
                        aircraft using evidence theory
 - <b>Focus.Research:</b> .... CUAS, autonomy, robotics,
@@ -36,15 +36,15 @@
                        design, thermoacoustics, F1 lap-time
                        OC
 - <b>Focus.Building:</b> .... GNSS-denied positioning
-
+&nbsp;
 - <b>Contact</b> ---------------------------------
 - <b>Email.Personal:</b> .... <a href="mailto:aashraysaxena@gmail.com">aashraysaxena@gmail.com</a>
 - <b>Email.Academic:</b> .... <a href="mailto:ashray.saxena@rwth-aachen.de">ashray.saxena@rwth-aachen.de</a>
 - <b>LinkedIn:</b> .......... <a href="https://www.linkedin.com/in/ashraysaxena/">in/ashraysaxena</a>
 - <b>ORCiD:</b> ............. <a href="https://orcid.org/0009-0001-8570-9160">0009-0001-8570-9160</a>
-
+&nbsp;
 - <b>GitHub Stats</b> ----------------------------
-- <b>Repos:</b> ............. 12   |   Stars: 9
+- <b>Repos:</b> ............. 11   |   Stars: 0
 - <b>Followers:</b> ......... 1   |   Following: 0
 - <b>Pinned:</b> ............ Airfoil-Opt, F1-Aero-ERS, Acoustics
 </pre>
