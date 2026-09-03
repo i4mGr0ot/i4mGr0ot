@@ -23,7 +23,7 @@ import urllib.request
 
 USERNAME = "i4mGr0ot"
 HANDLE = "ashray@github"
-BIRTHDAY = "2004-01-01"  # TODO: set your real date of birth -> drives "Uptime"
+BIRTHDAY = "2005-11-16"  # TODO: set your real date of birth -> drives "Uptime"
 
 ART_FILE = "portrait.txt"
 LAYOUT = "stacked"  # "stacked" = info block under the art; "side" = beside it
@@ -36,29 +36,29 @@ LEADER_WIDTH = 24  # column where the dotted leader ends
 ROWS = [
     ("OS", "Windows 11, Ubuntu 22.04 (WSL2)"),
     ("Uptime", "{uptime}"),
-    ("Host", "RWTH Aachen ILR, Aachen DE"),
+    ("Host", "Institute of Aerospace Systems, RWTH Aachen, Aachen DE"),
     ("Kernel", "B.E. Mech. Eng., BITS Pilani"),
-    ("Shell", "CRISS Robotics (lead, 50+)"),
-    ("IDE", "VSCode, MATLAB, Vim"),
+    ("Shell", "Project ATLAS - ILR"),
+    ("IDE", "VSCode, MATLAB, Vim, Arduino, Raspberry Pi"),
     ("", ""),
     ("Languages.Programming", "Python, C++, C, MATLAB"),
     ("Languages.Markup", "LaTeX, YAML, JSON, Bash"),
-    ("Languages.Real", "English, Hindi"),
+    ("Languages.Real", "English, Hindi, German"),
     ("", ""),
-    ("Stack.Simulation", "OpenFOAM, SU2, XFOIL, UNICADO"),
+    ("Stack.Simulation", "OpenFOAM, SU2, XFOIL, UNICADO, ANSYS, FlexCompute, COMSOL,  SimScale"),
     ("Stack.Robotics", "ROS2, PX4, STM32, Embedded C"),
-    ("Stack.Learning", "PyTorch, scikit-learn, Optuna"),
+    ("Stack.Learning", "PyTorch, scikit-learn, Optuna, Tensor Flow"),
     ("", ""),
-    ("Focus.Thesis", "Aircraft-concept credibility"),
-    ("Focus.Research", "Aeroacoustics, MDO, VIO"),
-    ("Focus.Papers", "Thermoacoustics, F1 lap-time OC"),
+    ("Focus.Thesis", "Credibility Estimation for 2045 EIS Aircrafts using Evidence Theory"),
+    ("Focus.Research", "CUAS, Autonomy, Robotics, Aeroacoustics, MDO, VIO, Combustion, Gas Turbine Engine"),
+    ("Focus.Papers", "NN for Airfoil Optimization for Wing Design, Thermoacoustics, F1 lap-time OC"),
     ("Focus.Building", "GNSS-denied positioning"),
     ("", ""),
     ("---", "Contact"),
-    ("Email.Personal", "TODO@example.com"),
-    ("Email.Academic", "TODO@rwth-aachen.de"),
-    ("LinkedIn", "TODO"),
-    ("Scholar", "TODO"),
+    ("Email.Personal", "aashraysaxena@gmail.com"),
+    ("Email.Academic", "ashray.saxena@rwth-aachen.de"),
+    ("LinkedIn", "https://www.linkedin.com/in/ashraysaxena/"),
+    ("ORCiD", "0009-0001-8570-9160"),
     ("", ""),
     ("---", "GitHub Stats"),
     ("Repos", "{repos}   |   Stars: {stars}"),
