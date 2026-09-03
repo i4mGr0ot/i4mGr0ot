@@ -44,7 +44,7 @@
 - <b>ORCiD:</b> ............. <a href="https://orcid.org/0009-0001-8570-9160">0009-0001-8570-9160</a>
 &nbsp;
 - <b>GitHub Stats</b> ----------------------------
-- <b>Repos:</b> ............. 11   |   Stars: 0
+- <b>Repos:</b> ............. 12   |   Stars: 9
 - <b>Followers:</b> ......... 1   |   Following: 0
 - <b>Pinned:</b> ............ Airfoil-Opt, F1-Aero-ERS, Acoustics
 </pre>
