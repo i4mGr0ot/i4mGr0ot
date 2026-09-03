@@ -85,7 +85,7 @@ ashray@github ----------------------------------------
 - Scholar: ............... TODO
 
 - GitHub Stats ----------------------------
-- Repos: ................. 11   |   Stars: 0
+- Repos: ................. 12   |   Stars: 9
 - Followers: ............. 1   |   Following: 0
 - Pinned: ................ Airfoil-Opt, F1-Aero-ERS, Acoustics
 ```
