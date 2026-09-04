@@ -9,7 +9,7 @@
 <pre>
 <b>ashray@github</b> ----------------------------------------
 - <b>OS:</b> ................ Windows 11, Ubuntu 22.04 (WSL2)
-- <b>Uptime:</b> ............ 20 years, 9 months, 21 days
+- <b>Uptime:</b> ............ 20 years, 9 months, 22 days
 - <b>Host:</b> .............. Institute of Aerospace Systems, RWTH
                        Aachen, Aachen DE
 - <b>Kernel:</b> ............ B.E. Mech. Eng., BITS Pilani
