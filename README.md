@@ -9,7 +9,7 @@
 <pre>
 <b>ashray@github</b> ----------------------------------------
 - <b>OS:</b> ................ Windows 11, Ubuntu 22.04 (WSL2)
-- <b>Uptime:</b> ............ 20 years, 9 months, 22 days
+- <b>Uptime:</b> ............ 20 years, 9 months, 23 days
 - <b>Host:</b> .............. Institute of Aerospace Systems, RWTH
                        Aachen, Aachen DE
 - <b>Kernel:</b> ............ B.E. Mech. Eng., BITS Pilani
@@ -44,8 +44,8 @@
 - <b>ORCiD:</b> ............. <a href="https://orcid.org/0009-0001-8570-9160">0009-0001-8570-9160</a>
 &nbsp;
 - <b>GitHub Stats</b> ----------------------------
-- <b>Repos:</b> ............. 12   |   Stars: 9
-- <b>Followers:</b> ......... 1   |   Following: 0
+- <b>Repos:</b> ............. 12   |   Stars: 22
+- <b>Followers:</b> ......... 2   |   Following: 0
 - <b>Pinned:</b> ............ Airfoil-Opt, F1-Aero-ERS, Acoustics
 </pre>
 </td>
